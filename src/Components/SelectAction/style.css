@@ -1,0 +1,28 @@
+.selectchoice{
+    border-bottom: 1px solid #dedede;
+    padding: 20px 0;
+    margin-bottom: 30px;
+}
+.file-drop .col{
+    text-align: left;
+}
+.file-drop .col label{
+    font-weight: bold;
+}
+
+.add-roll-title{    
+    width: 600px;
+    color: black;
+    padding: 10px 20px;
+    margin: 0 auto;
+    clear: both;
+    background: #6c757d;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.add-roll-title h4{
+    color: #fff;
+    text-align: left;
+    font-size: 20px;
+}
